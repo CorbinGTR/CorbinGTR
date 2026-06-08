@@ -27,10 +27,6 @@
 
 ---
 
-**Coming Soon**
-
----
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdlaTBrbGs3c3JlcHJrbHRxY2FiYjI5bWh1bXRqMW00amE0MDE4OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Q4lfmuy7uhIe40fuLz/giphy.gif" alt="Dancing Shadows" />
 </p>
