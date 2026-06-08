@@ -6,8 +6,6 @@
 - Languages: HTML, CSS, JavaScript, Python, Vue.js
 - Frameworks: Nuxt.js, Django
 - Databases: PostgreSQL
-- Education: Polytechnic College of Novgorod State University — Development of web and multimedia applications
-- Year of graduation: 2026
 
 ---
 
