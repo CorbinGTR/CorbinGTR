@@ -3,18 +3,11 @@
 ---
 
 ## ABOUT ME:
-- Languages: HTML, CSS, JavaScript, Python
-- Frameworks: Vue.js, Node.js, Django
-- Databases: MySQL, Supabase(PostgreSQL)
-- Tools: Git
+- Languages: HTML, CSS, JavaScript, Python, Vue.js
+- Frameworks: Nuxt.js, Django
+- Databases: PostgreSQL
 - Education: Polytechnic College of Novgorod State University — Development of web and multimedia applications
 - Year of graduation: 2026
-
-## I LOVE:
-- Coding👨🏻‍💻
-- Playing Video Games🎮
-- Shredding on Guitar🎸
-- AVENGED SEVENFOLD𓆩💀𓆪
 
 ---
 
@@ -51,8 +44,6 @@
 - Project 4: [Avenged Sevenfold Fan Page](https://www.figma.com/design/ZtkljsI7VaZGSO7lgIuR5p/A7X---Fan-Page?t=7mj9ndkMGZ8xUpXU-1) - A small landing page with information about each group member(outdated layout)
 
 ---
-
-## Additional Projects
 
 **Coming Soon**
 
